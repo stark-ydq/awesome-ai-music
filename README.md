@@ -1,8 +1,8 @@
-# Awesome AI Music [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Music [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Full-Vibe/awesome-ai-music?style=flat&logo=github)](https://github.com/Full-Vibe/awesome-ai-music/stargazers) [![GitHub Last Commit](https://img.shields.io/github/last-commit/Full-Vibe/awesome-ai-music?style=flat)](https://github.com/Full-Vibe/awesome-ai-music/commits) [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Full-Vibe/awesome-ai-music/pulls)
 
-A curated list of AI music generation tools, SDKs, models, focus music apps, and resources.
+> A curated list of AI music generation tools, SDKs, models, focus music apps, and resources.
 
-We're builders in this space ([workmusic.ai](https://workmusic.ai) — browser-based AI focus music) and we wanted one place to track everything happening in AI music. Contributions welcome.
+We're builders in this space — [workmusic.ai](https://workmusic.ai) is a free browser-based AI focus music app powered by Google Lyria. We built this list because we use these tools every day and wanted one place to track everything happening in AI music. Contributions welcome.
 
 ---
 
@@ -19,6 +19,7 @@ We're builders in this space ([workmusic.ai](https://workmusic.ai) — browser-b
 - [Web Audio & Browser](#-web-audio--browser)
 - [Research Papers](#-research-papers)
 - [Communities](#-communities)
+- [Contributing](#contributing)
 
 ---
 
